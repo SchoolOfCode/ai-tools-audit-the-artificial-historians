@@ -1,5 +1,5 @@
 // CREATE A BUSSINESS PERSONA
-    
+
 
 
 
@@ -13,6 +13,6 @@
 // when finished, remove the original readme.md file and complete it with:
 
       - Executive Summary
-      - Introduction
+
       - Conclusion and Recommendations
 
